@@ -1,9 +1,9 @@
 ---
 name: Tracking issue 
 about: Use this template for tracking new features.
-title: "[15th October 2024]: [FEATURE NAME]"
-labels: bug, tracking issue, needs triage
-assignees: octocat
+title: "[DATE]: [FEATURE NAME]"
+labels: tracking issue, needs triage
+assignees: 
 
 ---
 
